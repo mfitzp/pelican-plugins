@@ -28,4 +28,4 @@ dependencies = ["pelican"]
 dev = ["pytest"]
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/pelican_plugins"]
+packages = ["pelican_plugins"]
