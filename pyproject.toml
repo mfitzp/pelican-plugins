@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pelican_plugins"
-version = "0.1.4"
+version = "0.1.5"
 description = "A collection of plugins for the Pelican static site generator"
 readme = "README.md"
 requires-python = ">=3.9"
